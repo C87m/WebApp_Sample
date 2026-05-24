@@ -1,4 +1,4 @@
-namespace WebApp_Sample.Exceptions;
+namespace src.Exceptions;
 /// <summary>
 /// ドメインルール違反を表す例外クラス
 /// </summary>

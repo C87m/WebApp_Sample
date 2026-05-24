@@ -1,6 +1,6 @@
 using System.Text.Json;
 using Microsoft.AspNetCore.Mvc;
-namespace WebApp_Sample.Presentations.Controllers;
+namespace src.Presentations.Controllers;
 /// <summary>
 /// TempDataを通じて一時的にデータ(フォームなど)を保存・復元するためのクラス
 /// </summary>

@@ -1,5 +1,5 @@
-using WebApp_Sample.Presentations.Extensions;
-using WebApp_Sample.Presentations.Middlewares;
+using src.Presentations.Extensions;
+using src.Presentations.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 

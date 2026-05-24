@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using WebApp_Sample.Applications.Services;
-using WebApp_Sample.Presentations.ViewModels;
-namespace WebApp_Sample.Presentations.Controllers;
+using src.Applications.Services;
+using src.Presentations.ViewModels;
+namespace src.Presentations.Controllers;
 /// <summary>
 /// 従業員登録コントローラ
 /// </summary>

@@ -1,4 +1,4 @@
-namespace WebApp_Sample.Applications.Adapters;
+namespace src.Applications.Adapters;
 /// <summary>
 /// TDomainに指定されたドメインオブジェクトをTTargetに指定されたクラスに変換するインターフェイス
 /// </summary>

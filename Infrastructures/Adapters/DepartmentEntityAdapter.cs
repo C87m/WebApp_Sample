@@ -1,7 +1,7 @@
-using WebApp_Sample.Applications.Adapters;
-using WebApp_Sample.Applications.Domains;
-using WebApp_Sample.Infrastructures.Entities;
-namespace WebApp_Sample.Infrastructures.Adapters;
+using src.Applications.Adapters;
+using src.Applications.Domains;
+using src.Infrastructures.Entities;
+namespace src.Infrastructures.Adapters;
 /// <summary>
 /// ドメインオブジェクト:DepartmentとDepartmentEntityの相互変換インターフェイスの実装
 /// </summary>

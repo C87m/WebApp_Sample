@@ -1,6 +1,6 @@
-using WebApp_Sample.Applications.Adapters;
-using WebApp_Sample.Applications.Domains;
-namespace WebApp_Sample.Presentations.ViewModels;
+using src.Applications.Adapters;
+using src.Applications.Domains;
+namespace src.Presentations.ViewModels;
 /// <summary>
 /// EmployeeRegisterViewModel(従業員登録ViewModel)を
 /// ドメインオブジェクト:Employeeに変換するアダプターインターフェイスの実装

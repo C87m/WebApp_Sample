@@ -1,5 +1,5 @@
-using WebApp_Sample.Applications.Domains;   
-namespace WebApp_Sample.Applications.Repositories;
+using src.Applications.Domains;   
+namespace src.Applications.Repositories;
 /// <summary>
 /// ドメインオブジェクト:従業員のCRUD操作インターフェイス
 /// </summary>

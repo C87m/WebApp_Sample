@@ -1,8 +1,8 @@
-using WebApp_Sample.Applications.Repositories;
-using WebApp_Sample.Applications.Domains;
-using WebApp_Sample.Exceptions;
-using WebApp_Sample.Infrastructures.Context;
-namespace WebApp_Sample.Applications.Services.Impls;
+using src.Applications.Repositories;
+using src.Applications.Domains;
+using src.Exceptions;
+using src.Infrastructures.Context;
+namespace src.Applications.Services.Impls;
 /// <summary>
 /// 従業員登録サービスインターフェイスの実装
 /// </summary>

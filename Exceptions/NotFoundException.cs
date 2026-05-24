@@ -1,4 +1,4 @@
-namespace WebApp_Sample.Exceptions;
+namespace src.Exceptions;
 /// <summary>
 /// 該当するデータが見つからないことを表す例外クラス
 /// </summary>

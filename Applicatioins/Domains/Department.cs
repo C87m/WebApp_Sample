@@ -1,5 +1,5 @@
-using WebApp_Sample.Exceptions;
-namespace WebApp_Sample.Applications.Domains;
+using src.Exceptions;
+namespace src.Applications.Domains;
 /// <summary>
 /// 所属部署を表すドメインオブジェクト
 /// </summary>

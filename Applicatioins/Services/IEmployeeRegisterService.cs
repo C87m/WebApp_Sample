@@ -1,5 +1,5 @@
-using WebApp_Sample.Applications.Domains;
-namespace WebApp_Sample.Applications.Services;
+using src.Applications.Domains;
+namespace src.Applications.Services;
 /// <summary>
 /// 従業員登録サービスインターフェイス
 /// </summary>

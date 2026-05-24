@@ -1,5 +1,5 @@
-using WebApp_Sample.Exceptions;
-namespace WebApp_Sample.Presentations.Middlewares;
+using src.Exceptions;
+namespace src.Presentations.Middlewares;
 /// <summary>
 /// IngternalExceptionをハンドリングするミドルウェア
 /// </summary>

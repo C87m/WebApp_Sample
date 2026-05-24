@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using WebApp_Sample.Infrastructures.Entities;
-namespace WebApp_Sample.Infrastructures.Context;
+using src.Infrastructures.Entities;
+namespace src.Infrastructures.Context;
 /// <summary>
 /// DbContext継承クラス
 /// </summary>
